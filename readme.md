@@ -8,4 +8,4 @@ Pancakes
 
 Fruit
 
-Syrup
+Butter
