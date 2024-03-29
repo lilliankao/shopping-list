@@ -7,3 +7,5 @@ Hash browns
 Pancakes
 
 Fruit
+
+Syrup
