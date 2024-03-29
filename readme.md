@@ -9,3 +9,5 @@ Pancakes
 Fruit
 
 Butter
+
+Syrup
